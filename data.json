@@ -1,0 +1,389 @@
+[
+  {
+    "nome": "Bangu",
+    "ano": 1995,
+    "descrição": "Foi um dos pioneiros na inclusão de jogadores negros no futebol brasileiro e o primeiro clube do Brasil a ter patrocínio estampado na camisa.",
+    "titulo": "Campeonato Carioca (Série A2) - 2025",
+    "link": "https://pt.wikipedia.org/wiki/Bangu_Atl%C3%A9tico_Clube"
+  },
+  {
+    "nome": "Boavista",
+    "ano": 1961,
+    "descrição": "É frequentemente considerado uma surpresa no Campeonato Carioca, conseguindo bons resultados contra os clubes grandes do Rio.",
+    "titulo": "Copa Rio - 2017",
+    "link": "https://pt.wikipedia.org/wiki/Boavista_Sport_Club"
+  },
+  {
+    "nome": "Botafogo",
+    "ano": 1894,
+    "descrição": "O clube é especialmente famoso por ter fornecido a base da Seleção Brasileira bicampeã mundial em 1958 e 1962. ",
+    "titulo": "Libertadores e Brasileirão - 2024",
+    "link": "https://pt.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas"
+  },
+  {
+    "nome": "Flamengo",
+    "ano": 1895,
+    "descrição": "É o clube de maior torcida no Brasil, com dezenas de milhões de torcedores espalhados por todas as regiões do país, o que nenhum outro clube brasileiro consegue em tal magnitude.",
+    "titulo": "Supercopa do Brasil - 2025",
+    "link": "https://pt.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo#"
+  },
+  {
+    "nome": "Fluminense",
+    "ano": 1902,
+    "descrição": "Foi o principal articulador para a adoção do profissionalismo no futebol brasileiro em 1933. Seu estádio, em Laranjeiras, foi o primeiro na América Latina a ser construído em cimento.",
+    "titulo": "Recopa Sul-Americana - 2024",
+    "link": "https://pt.wikipedia.org/wiki/Fluminense_Football_Club"
+  },
+  {
+    "nome": "Maricá",
+    "ano": 2001,
+    "descrição": "o Maricá FC é um clube em ascensão no Rio de Janeiro, que recentemente alcançou a primeira divisão do Campeonato Carioca.",
+    "titulo": "Campeonato Carioca (Série A2) - 2024",
+    "link": "https://pt.wikipedia.org/wiki/Maric%C3%A1_Futebol_Clube"
+  },
+  {
+    "nome": "Madureira",
+    "ano": 1914,
+    "descrição": "Possui o recorde brasileiro de permanência de um clube no exterior em uma única excursão (em 1961, foram 144 dias, jogando pela Europa, Ásia e EUA).",
+    "titulo": "Taça rio - 2015",
+    "link": "https://pt.wikipedia.org/wiki/Madureira_Esporte_Clube"
+  },
+  {
+    "nome": "Nova Iguaçu",
+    "ano": 1990,
+    "descrição": "Suas cores predominantes são o Laranja e o Preto, e é apelidado de Orgulho da Baixada e Carrossel da Baixada. A cor laranja é uma homenagem ao período em que Nova Iguaçu foi um grande exportador da fruta.",
+    "titulo": "Campeonato Carioca (Série A2) - 2020",
+    "link": "https://pt.wikipedia.org/wiki/Nova_Igua%C3%A7u_Futebol_Clube"
+  },
+  {
+    "nome": "Portuguesa-RJ",
+    "ano": 1924,
+    "descrição": "Ficou famosa por sua atuação em excursões internacionais, sendo a mais notável a vitória sobre o Real Madrid por 2 a 1, no Estádio Santiago Bernabéu, em 1969.",
+    "titulo": "Copa Rio - 2025",
+    "link": "https://pt.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Atl%C3%A9tica_Portuguesa_(Rio_de_Janeiro)"
+  },
+  {
+    "nome": "Sampaio Corrêa",
+    "ano": 2006,
+    "descrição": "Seu mascote é o Galinho da Serra, ave típica das serras que circundam o seu complexo esportivo e o distrito como um todo.",
+    "titulo": "Campeonato Carioca (Série A2) - 2023",
+    "link": "https://pt.wikipedia.org/wiki/Sampaio_Corr%C3%AAa_Futebol_e_Esporte"
+  },
+  {
+    "nome": "Vasco da Gama",
+    "ano": 1898,
+    "descrição": "É um dos clubes mais tradicionais do futebol brasileiro, conhecido pela sua história de inclusão social e luta contra o preconceito no esporte, principalmente na década de 1920, quando aceitou jogadores negros e de classes sociais mais baixas.",
+    "titulo": "Taça rio - 2021",
+    "link": "https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama"
+  },
+  {
+    "nome": "Volta Redonda",
+    "ano": 1976,
+    "descrição": "O clube possui o apelido de esquadrão de aço, devido a cidade Volta Redodnda ser nacionalmente conhecida como Cidade do Aço, por abrigar a Companhia Siderúrgica Nacional (CSN), uma das maiores e mais importantes empresas de siderurgia do Brasil e da América Latina.",
+    "titulo": "Campeonato Brasileiro (Série C) - 2024",
+    "link": "https://pt.wikipedia.org/wiki/Volta_Redonda_Futebol_Clube"
+  },
+  {
+    "nome": "América Futebol Clube (RJ)",
+    "descrição": "Um dos clubes mais tradicionais do Rio de Janeiro, com sede na Tijuca. Atualmente disputa a Série A2 do Carioca.",
+    "ano": "1904",
+    "titulo": "Taça Santos Dumont - 2023",
+    "link": "http://www.americafc.com.br",
+    "tags": [
+      "Clubes de Tradição",
+      "Série A2 Carioca",
+      "Rio de Janeiro",
+      "Gigantes Clássicos"
+    ]
+  },
+  {
+    "nome": "Americano Futebol Clube",
+    "descrição": "Sediado em Campos dos Goytacazes, é um dos clubes mais fortes do Norte Fluminense.",
+    "ano": "1914",
+    "titulo": "Campeonato Carioca (Série A2) - 2018",
+    "link": "https://www.americanofc.com.br",
+    "tags": [
+      "Clubes de Tradição",
+      "Norte Fluminense",
+      "Série A2 Carioca",
+      "Times de Expressão Local"
+    ]
+  },
+  {
+    "nome": "Audax Rio de Janeiro Esporte Clube",
+    "descrição": "Clube com sede em São João de Meriti, conhecido por revelar jogadores. Atualmente disputa a Série A do Carioca.",
+    "ano": "2005",
+    "titulo": "Vice-campeonato da Taça Rio - 2023",
+    "link": "https://www.audaxrj.com.br",
+    "tags": [
+      "Ascensão/Novos Participantes",
+      "Baixada Fluminense",
+      "Série A1 Carioca"
+    ]
+  },
+  {
+    "nome": "Resende Futebol Clube",
+    "descrição": "Representante do Sul Fluminense, já participou de diversas edições da Série A do Carioca e da Copa do Brasil.",
+    "ano": "1909",
+    "titulo": "Taça Rio - 2022",
+    "link": "https://www.resendefc.com.br",
+    "tags": [
+      "Clubes de Tradição",
+      "Sul Fluminense",
+      "Série A2 Carioca",
+      "Times de Expressão Local"
+    ]
+  },
+  {
+    "nome": "Associação Desportiva Cabofriense",
+    "descrição": "Clube da Região dos Lagos, conhecido por suas campanhas na elite estadual.",
+    "ano": "1997",
+    "titulo": "Campeonato Carioca (Série B1) - 2018",
+    "link": "https://www.cabofriense.com",
+    "tags": [
+      "Região dos Lagos",
+      "Série A2 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  },
+  {
+    "nome": "Olaria Atlético Clube",
+    "descrição": "Tradicional clube da Zona da Leopoldina, já foi campeão da Série B nacional.",
+    "ano": "1915",
+    "titulo": "Copa Rio - 2023",
+    "link": "https://www.olariaac.com.br",
+    "tags": [
+      "Clubes de Tradição",
+      "Zona Norte Carioca",
+      "Série A2 Carioca"
+    ]
+  },
+  {
+    "nome": "Friburguense Atlético Clube",
+    "descrição": "Representante de Nova Friburgo, na Região Serrana. É conhecido por suas participações regulares na Série A1.",
+    "ano": "1980",
+    "titulo": "Campeonato Carioca (Série A2) - 2019",
+    "link": "https://www.friburguense.com.br",
+    "tags": [
+      "Região Serrana",
+      "Clubes de Tradição",
+      "Série B1 Carioca"
+    ]
+  },
+  {
+    "nome": "Duque de Caxias Futebol Clube",
+    "descrição": "Sediado na Baixada Fluminense, o clube já disputou a Série B do Campeonato Brasileiro.",
+    "ano": "2005",
+    "titulo": "Copa Rio - 2014",
+    "link": "https://www.duquedecaxiasfc.com.br",
+    "tags": [
+      "Baixada Fluminense",
+      "Série B1 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  },
+  {
+    "nome": "Goytacaz Futebol Clube",
+    "descrição": "Um dos clubes mais antigos e tradicionais de Campos dos Goytacazes.",
+    "ano": "1912",
+    "titulo": "Campeonato Carioca (Série B1) - 2017",
+    "link": "https://www.goytacazfc.com.br",
+    "tags": [
+      "Clubes de Tradição",
+      "Norte Fluminense",
+      "Série B1 Carioca"
+    ]
+  },
+  {
+    "nome": "Macaé Esporte Futebol Clube",
+    "descrição": "Clube com destaque nacional, sendo Campeão Brasileiro da Série C.",
+    "ano": "1990",
+    "titulo": "Campeonato Brasileiro (Série C) - 2014",
+    "link": "https://www.macaeesporte.com.br",
+    "tags": [
+      "Norte Fluminense",
+      "Ascensão/Novos Participantes",
+      "Série B1 Carioca"
+    ]
+  },
+  {
+    "nome": "Artsul Futebol Clube",
+    "descrição": "Localizado em Nova Iguaçu, o clube tem um foco forte na formação de atletas. Disputa a Série A2.",
+    "ano": "2001",
+    "titulo": "Campeonato Carioca (Série B1) - 2002",
+    "link": "https://www.artsul.com.br",
+    "tags": [
+      "Baixada Fluminense",
+      "Série A2 Carioca",
+      "Foco em Formação"
+    ]
+  },
+  {
+    "nome": "Campo Grande Atlético Clube",
+    "descrição": "Tradicional clube da Zona Oeste do Rio.",
+    "ano": "1940",
+    "titulo": "Campeonato Carioca (Série C) - 2021",
+    "link": "https://www.campograndeac.com.br",
+    "tags": [
+      "Clubes de Tradição",
+      "Zona Oeste Carioca",
+      "Série B1 Carioca"
+    ]
+  },
+  {
+    "nome": "São Gonçalo Esporte Clube",
+    "descrição": "Clube da região metropolitana de São Gonçalo.",
+    "ano": "2010",
+    "titulo": "Campeonato Carioca (Série B2) - 2019",
+    "link": "https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_Esporte_Clube",
+    "tags": [
+      "Região Metropolitana",
+      "Série B1 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  },
+  {
+    "nome": "Mesquita Futebol Clube",
+    "descrição": "Representante de Mesquita na Baixada Fluminense.",
+    "ano": "1920",
+    "titulo": "Campeonato Carioca (Série C) - 2009",
+    "link": "https://pt.wikipedia.org/wiki/Mesquita_Futebol_Clube",
+    "tags": [
+      "Baixada Fluminense",
+      "Clubes de Tradição",
+      "Série B1 Carioca"
+    ]
+  },
+  {
+    "nome": "Serrano Futebol Clube",
+    "descrição": "Localizado em Petrópolis, na Região Serrana.",
+    "ano": "1915",
+    "titulo": "Campeonato Carioca (Série B) - 1998",
+    "link": "https://www.serranofc.com.br",
+    "tags": [
+      "Região Serrana",
+      "Clubes de Tradição",
+      "Série B1 Carioca"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Tigres do Brasil",
+    "descrição": "Clube de Xerém, Duque de Caxias, conhecido por ter participado da Série A1.",
+    "ano": "2004",
+    "titulo": "Copa Rio - 2009",
+    "link": "https://pt.wikipedia.org/wiki/Esporte_Clube_Tigres_do_Brasil",
+    "tags": [
+      "Baixada Fluminense",
+      "Série B1 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  },
+  {
+    "nome": "Associação Atlética Rio São Paulo",
+    "descrição": "Clube tradicional da capital, atualmente disputa a Série B1.",
+    "ano": "1941",
+    "titulo": "Campeonato Carioca (Série B2) - 2023",
+    "link": "https://pt.wikipedia.org/wiki/Esporte_Clube_Rio_S%C3%A3o_Paulo",
+    "tags": [
+      "Zona Oeste Carioca",
+      "Série B1 Carioca",
+      "Clubes de Tradição"
+    ]
+  },
+  {
+    "nome": "Associação Esportiva XV de Novembro",
+    "descrição": "Clube com sede em Cabo Frio, na Região dos Lagos.",
+    "ano": "1958",
+    "titulo": "Campeonato Carioca (Série B2) - 2016",
+    "link": "https://pt.wikipedia.org/wiki/XV_de_Araruama_Futebol_e_Regatas",
+    "tags": [
+      "Região dos Lagos",
+      "Série B1 Carioca",
+      "Times de Expressão Local"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Araruama",
+    "descrição": "Clube da Região dos Lagos.",
+    "ano": "1994",
+    "titulo": "Campeonato Carioca (Série C) - 2016",
+    "link": "https://pt.wikipedia.org/wiki/Araruama_Futebol_Clube",
+    "tags": [
+      "Região dos Lagos",
+      "Série B1 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  },
+  {
+    "nome": "Ceres Futebol Clube",
+    "descrição": "Clube do bairro de Bangu, na Zona Oeste, conhecido pela sua história na divisão de acesso.",
+    "ano": "1933",
+    "titulo": "Campeonato Carioca (Série B) - 1990",
+    "link": "https://pt.wikipedia.org/wiki/Ceres_Futebol_Clube",
+    "tags": [
+      "Zona Oeste Carioca",
+      "Clubes de Tradição",
+      "Série B2 Carioca"
+    ]
+  },
+  {
+    "nome": "Barra da Tijuca Futebol Clube",
+    "descrição": "Clube fundado recentemente com sede na Barra da Tijuca.",
+    "ano": "2010",
+    "titulo": "Campeonato Carioca (Série C) - 2022",
+    "link": "https://pt.wikipedia.org/wiki/Barra_da_Tijuca_Futebol_Clube",
+    "tags": [
+      "Zona Oeste Carioca",
+      "Série B1 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  },
+  {
+    "nome": "Serra Macaense Futebol Clube",
+    "descrição": "Clube de Macaé, focado no desenvolvimento de categorias de base.",
+    "ano": "2003",
+    "titulo": "Campeonato Carioca (Série B2) - 2010",
+    "link": "https://pt.wikipedia.org/wiki/Serra_Macaense_Futebol_Clube",
+    "tags": [
+      "Norte Fluminense",
+      "Série B1 Carioca",
+      "Foco em Formação"
+    ]
+  },
+  {
+    "nome": "Itaboraí Profute Futebol Clube",
+    "descrição": "Resultante da parceria entre Profute e Itaboraí, herdando o legado de participações relevantes.",
+    "ano": "2016",
+    "titulo": "Campeonato Carioca (Série B1) - 2015 (como Gonçalense)",
+    "link": "https://pt.wikipedia.org/wiki/Itabora%C3%AD_Profute_Futebol_Clube",
+    "tags": [
+      "Região Metropolitana",
+      "Série B1 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  },
+  {
+    "nome": "Angra dos Reis Esporte Clube",
+    "descrição": "Representante de Angra dos Reis, no Sul Fluminense.",
+    "ano": "1999",
+    "titulo": "Campeonato Carioca (Série B2) - 2003",
+    "link": "https://pt.wikipedia.org/wiki/Angra_dos_Reis_Esporte_Clube",
+    "tags": [
+      "Sul Fluminense",
+      "Série B1 Carioca",
+      "Times de Expressão Local"
+    ]
+  },
+  {
+    "nome": "Rubro Social Esporte Clube",
+    "descrição": "Clube de Araruama que compete nas divisões de acesso.",
+    "ano": "1918",
+    "titulo": "Campeonato Carioca (Série C) - 2018",
+    "link": "https://pt.wikipedia.org/wiki/Rubro_Social_Esporte_Clube",
+    "tags": [
+      "Região dos Lagos",
+      "Série B1 Carioca",
+      "Ascensão/Novos Participantes"
+    ]
+  }
+]
