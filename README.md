@@ -51,9 +51,7 @@ Sinta-se à vontade para sugerir melhorias, reportar *bugs* ou adicionar novas f
 
 ## ✒️ Autor
 
-| [![Schmitzdev11 GitHub](https://avatars.githubusercontent.com/u/Schmitzdev11](https://github.com/Schmitzdev11) | Gabriel Schmitz / Schmitzdev11 |
+| [![Schmitzdev11 GitHub](https://github.com/Schmitzdev11.png?size=100)](https://github.com/Schmitzdev11) | **Gabriel / Schmitzdev11** |
 | :---: | :--- |
-| **LinkedIn** | [Gabriel Schmitz](www.linkedin.com/in/gabriel-schmitz) |
+| **LinkedIn** | [Seu Perfil no LinkedIn](www.linkedin.com/in/gabriel-schmitz) |
 | **GitHub** | [@Schmitzdev11](https://github.com/Schmitzdev11) |
-
----
